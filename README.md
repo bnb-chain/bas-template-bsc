@@ -152,3 +152,9 @@ Each BAS should have on-cain governance to let users vote for the new proposal o
 ## 6. License
 
 The content is licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+## 7. Cooperation
+
+BAS starts its development based on [Ankr](https://github.com/Ankr-network/bas-template-bsc), special thanks to [Ankr](https://www.ankr.com/) team and [Nodereal](https://nodereal.io/) team for their contribution.
+
+![avatar](./image/ankr-bnbchain.png)
